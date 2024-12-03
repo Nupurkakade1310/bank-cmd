@@ -1,0 +1,13 @@
+C:\Users\nupur\Downloads\Bank-Management-System-master (1)\Bank-Management-System-master\BMS\BMS\bin\Debug\netcoreapp2.1\Bank.deps.json
+C:\Users\nupur\Downloads\Bank-Management-System-master (1)\Bank-Management-System-master\BMS\BMS\bin\Debug\netcoreapp2.1\Bank.runtimeconfig.json
+C:\Users\nupur\Downloads\Bank-Management-System-master (1)\Bank-Management-System-master\BMS\BMS\bin\Debug\netcoreapp2.1\Bank.runtimeconfig.dev.json
+C:\Users\nupur\Downloads\Bank-Management-System-master (1)\Bank-Management-System-master\BMS\BMS\bin\Debug\netcoreapp2.1\Bank.dll
+C:\Users\nupur\Downloads\Bank-Management-System-master (1)\Bank-Management-System-master\BMS\BMS\bin\Debug\netcoreapp2.1\Bank.pdb
+C:\Users\nupur\Downloads\Bank-Management-System-master (1)\Bank-Management-System-master\BMS\BMS\obj\Debug\netcoreapp2.1\Bank.csproj.AssemblyReference.cache
+C:\Users\nupur\Downloads\Bank-Management-System-master (1)\Bank-Management-System-master\BMS\BMS\obj\Debug\netcoreapp2.1\Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nupur\Downloads\Bank-Management-System-master (1)\Bank-Management-System-master\BMS\BMS\obj\Debug\netcoreapp2.1\Bank.AssemblyInfoInputs.cache
+C:\Users\nupur\Downloads\Bank-Management-System-master (1)\Bank-Management-System-master\BMS\BMS\obj\Debug\netcoreapp2.1\Bank.AssemblyInfo.cs
+C:\Users\nupur\Downloads\Bank-Management-System-master (1)\Bank-Management-System-master\BMS\BMS\obj\Debug\netcoreapp2.1\Bank.csproj.CoreCompileInputs.cache
+C:\Users\nupur\Downloads\Bank-Management-System-master (1)\Bank-Management-System-master\BMS\BMS\obj\Debug\netcoreapp2.1\Bank.dll
+C:\Users\nupur\Downloads\Bank-Management-System-master (1)\Bank-Management-System-master\BMS\BMS\obj\Debug\netcoreapp2.1\Bank.pdb
+C:\Users\nupur\Downloads\Bank-Management-System-master (1)\Bank-Management-System-master\BMS\BMS\obj\Debug\netcoreapp2.1\Bank.genruntimeconfig.cache
